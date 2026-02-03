@@ -2,8 +2,8 @@
 
 # 🎮 Kick Chat Tool
 
-<img src="https://media.discordapp.net/attachments/1412417122956607509/1468060693046493204/image.png?format=webp&quality=lossless" width="200" alt="Kick Chat Tool Preview"/>
-<img src="https://media.discordapp.net/attachments/1412417122956607509/1468061113487724747/image.png?format=webp&quality=lossless" width="200" alt="Kick Chat Tool Preview"/>
+<img src="https://media.discordapp.net/attachments/1412417122956607509/1468060693046493204/image.png?ex=6982a590&is=69815410&hm=8573322de0e6d5cc7b1ee0323fd9cea63d9876b2a76af0659adcc7590f4321b2&=&format=webp&quality=lossless&width=388&height=600" width="200" alt="Kick Chat Tool Preview"/>
+<img src="https://media.discordapp.net/attachments/1412417122956607509/1468061113487724747/image.png?ex=6982a5f4&is=69815474&hm=75eca067fcc9f6643868e1c06989928dd69ae425ca74d28eff604302be4df8ed&=&format=webp&quality=lossless&width=384&height=600" width="200" alt="Kick Chat Tool Preview"/>
 
 **A modern, premium chat automation tool for Kick.com**
 
@@ -81,6 +81,7 @@
     };
     console.log('%c📡 Interceptor active! Refresh the page (F5) to capture your token.', 'color: #A855F7; font-weight: bold;');
 })();
+ ```
 Refresh the page (F5).
 
 Your token will appear in the console and be auto‑copied 🎉
@@ -95,4 +96,4 @@ Your token will appear in the console and be auto‑copied 🎉
 Made with 💜 by +216_B.I.G
 If you like the project, don’t forget to ⭐ star it!
 
-</div> ```
+</div>
