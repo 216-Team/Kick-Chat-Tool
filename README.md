@@ -3,6 +3,7 @@
 # 🎮 Kick Chat Tool
 
 <img src="https://media.discordapp.net/attachments/1412417122956607509/1468060693046493204/image.png?ex=6982a590&is=69815410&hm=8573322de0e6d5cc7b1ee0323fd9cea63d9876b2a76af0659adcc7590f4321b2&=&format=webp&quality=lossless&width=388&height=600" width="120" alt="Kick Tool Logo"/>
+<img src="https://media.discordapp.net/attachments/1412417122956607509/1468061113487724747/image.png?ex=6982a5f4&is=69815474&hm=75eca067fcc9f6643868e1c06989928dd69ae425ca74d28eff604302be4df8ed&=&format=webp&quality=lossless&width=384&height=600"/>
 
 **A premium, modern chat automation tool for Kick.com with a sleek glassmorphism UI**
 
