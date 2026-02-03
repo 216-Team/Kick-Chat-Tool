@@ -69,12 +69,12 @@
 6. The token will appear in the console and be **automatically copied** to your clipboard!
 
 ---
+
+<div align="center">
+
+**Made with 💜 by +216_B.I.G**
 ⭐ 10 - Add multipal Account Support
 ⭐ 50 - Nuck Chat with Bypass Cooldown
 ⭐ 100 - Add Live Viewer Support 1k-3k Viewers
 ⭐ 500 - Add Live Viewer Support Proxy 10K Viewers
-<div align="center">
-
-**Made with 💜 by +216_B.I.G**
-
 </div>
